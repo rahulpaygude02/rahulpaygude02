@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahulpaygude02
-- 👀 I’m interested in Data Science field
-- 🌱 I’m currently learning Computer Vision,NLP
+- 👀 I’m interested in Data Science field like Machine Learning, Deep learning and NLP
 
 
 <!---
